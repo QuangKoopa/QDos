@@ -1,5 +1,5 @@
 # Cách dùng
-git clone https://github.com/thaibaocute/ddos-go
+git clone https://github.com/QuangKoopa/QDos
 [ bỏ vào gg cloud shell]
 lệnh chạy cd ddos-go
 go run ddos.go <url> <threads> <get/post> <seconds> <header.txt>
