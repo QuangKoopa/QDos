@@ -1,2 +1,1 @@
-# QDos
-QDos-Tool
+# ddos-go
